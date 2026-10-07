@@ -1,6 +1,12 @@
-<h1 align="center">NZR Meterion</h1>
+<div align="center">
 
-<p align="center">Meter DPS et suivi des familiers pour AION 2, par la team NZR.</p>
+<img src=".github/nzr-logo.png" alt="NZR Meterion" width="160">
+
+# NZR Meterion
+
+**Le meter Aion 2 de la team NZR** · DPS en jeu · suivi des familiers · horaires EU
+
+</div>
 
 ---
 
